@@ -1,7 +1,3 @@
-#####################################################################
-# from github's python-gitignore
-# https://github.com/github/gitignore/blob/master/Python.gitignore
-#####################################################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -91,14 +87,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-
-##################
-# other settings
-##################
-
-.python-version
-.idea
-.DS_Store
-tmp/
-*.iml
